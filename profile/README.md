@@ -91,7 +91,6 @@ Have a project in mind? We’d love to hear from you!
 
 📧 Email: [hello@visualabstudio.com](mailto:hello@visualabstudio.com)  
 🌐 Website: [https://visualabstudio.com](https://visualabstudio.com)  
-📍 Location: [Add your city or country here if you want]
 
 ---
 
