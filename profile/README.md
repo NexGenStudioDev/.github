@@ -1,96 +1,36 @@
-# Visualab Studio
+# NexGenStudioDev
 
-**Creative Web Design & Full-Stack Development for Brands That Care About Details**
-
-Welcome to **Visualab Studio** – a digital creative agency that builds high-quality, creative, and custom websites. We specialize in **UX/UI design**, **front-end and back-end development**, and **full-stack solutions**. We work with businesses who care about quality, performance, and detail.
+**NexGenStudioDev** is a digital creative agency and collaborative development hub focused on delivering high-quality, custom web solutions.
 
 ---
 
-## 💼 Our Services
+## What We Do
 
-We offer a full range of web design and development services to bring your ideas to life:
-
-### 🚀 Full-Stack Web Development
-We build complete websites from start to finish. This includes:
-- **Front-End Development**: What users see (design, layout, buttons)
-- **Back-End Development**: How the site works behind the scenes (servers, databases)
-
-### 🎨 UX/UI Design
-We create beautiful and user-friendly designs:
-- Clean, modern design that fits your brand
-- Mobile-friendly and responsive layouts
-- Easy navigation and user-focused design
-
-### 💡 Creative Website Design
-Every website is custom-designed with your brand in mind:
-- Unique layouts
-- Custom animations
-- Interactive elements that impress
-
-### ⚙️ 24/7 Support & Maintenance
-We’re here for you anytime:
-- Ongoing updates
-- Bug fixing
-- Quick response time
-
-### 📈 SEO & Performance Optimization
-We build websites that are:
-- **SEO-friendly**: Help your site rank better on Google
-- **Fast**: Quick load times and smooth performance
-- **Clean-coded**: Easy to maintain and grow
+- Build and maintain **MERN Stack** projects (MongoDB, Express, React, Node.js)  
+- Develop **creative, responsive websites** with modern UX/UI design  
+- Provide full **front-end and back-end development** services  
+- Offer **custom, scalable, and performance-optimized solutions** for businesses that care about quality and detail  
+- Encourage **global collaboration** — open for contributions from developers worldwide
 
 ---
 
-## ✅ What You Get
-- Custom design (no templates)
-- Fast, mobile-ready site
-- Search engine optimization (SEO)
-- Secure and scalable back-end
-- Ongoing support after launch
+## Our Mission
+
+To create innovative digital experiences by combining creativity with cutting-edge technology. We partner with businesses and communities who value excellence, performance, and seamless user experience.
 
 ---
 
-## 🧑‍💻 Technologies We Use
+## Contributing
 
-We use modern tools to design and build your website:
-
-**Design Tools**:  
-Figma, Adobe XD, Photoshop
-
-**Front-End**:  
-HTML, CSS, JavaScript, React, Vue
-
-**Back-End**:  
-Node.js, PHP, Express, MongoDB, MySQL
-
-**CMS Platforms**:  
-WordPress, Webflow, Sanity, Strapi
-
-**E-commerce**:  
-Shopify, WooCommerce
-
-**Hosting & DevOps**:  
-Vercel, Netlify, GitHub, Google Analytics
+We welcome developers, designers, and creatives to contribute! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to participate.
 
 ---
 
-## 🌟 Why Choose Visualab Studio?
+## Contact
 
-- We care about every detail, big or small
-- We mix creativity with smart technology
-- We focus on your brand and your goals
-- We build websites that perform and impress
-
-> _“We don’t just build websites. We create powerful digital experiences.”_
+For client inquiries or collaboration opportunities, reach us at:  
+**abhishek.nexgen.dev@gmail.com**
 
 ---
 
-## 📬 Let’s Work Together
-
-Have a project in mind? We’d love to hear from you!
-
-📧 Email: [hello@visualabstudio.com](mailto:hello@visualabstudio.com)  
-🌐 Website: [https://visualabstudio.com](https://visualabstudio.com)  
-
----
-
+Join **NexGenStudioDev** and help build the future of digital creativity and development.
